@@ -1,0 +1,19 @@
+{
+  "name": "javasciptbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashant-27-09/Javacript-Basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prashant-27-09/Javacript-Basics/issues"
+  },
+  "homepage": "https://github.com/Prashant-27-09/Javacript-Basics#readme"
+}
